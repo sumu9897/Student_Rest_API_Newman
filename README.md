@@ -89,21 +89,21 @@ npm install -g newman-reporter-htmlextra
 
    > In the test case you need to validate the following field values:
 
-   1. > First Name
-   2. > Middle Name
-   3. > Last Name
-   4. > Date of Birth
-   5. > Language
-   6. > Year Of Experience
-   7. > Last Used Date
-   8. > House Number
-   9. > City
-   10. > State
-   11. > Country
-   12. > Std Code
-   13. > Home Address
-   14. > Mobile
+   1.  First Name
+   2.  Middle Name
+   3.  Last Name
+   4.  Date of Birth
+   5.  Language
+   6.  Year Of Experience
+   7.  Last Used Date
+   8.  House Number
+   9.  City
+   10.  State
+   11.  Country
+   12.  Std Code
+   13.  Home Address
+   14.  Mobile
 
 8. ### Delete Specific Student
-   > In the test case you need to validate the following field values:
-   1. > Only Message
+    In the test case you need to validate the following field values:
+   1.  Only Message
