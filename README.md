@@ -50,44 +50,44 @@ npm install -g newman-reporter-htmlextra
 
 1. ### Create Student
 
-   > Create Data Sets Using the Dynamic Random Variables.
+    Create Data Sets Using the Dynamic Random Variables.
 
 2. ### Verify Crated Student Details
 
-   > In the test case you need to validate the following field values:
+    In the test case you need to validate the following field values:
 
-   1. > First Name
-   2. > Middle Name
-   3. > Last Name
-   4. > Date of Birth
+   1.  First Name
+   2.  Middle Name
+   3.  Last Name
+   4.  Date of Birth
 
 3. ### Update Student
-   > In the test case you need to validate the following field values:
-   1. > Only Message
+    In the test case you need to validate the following field values:
+   1.  Only Message
 4. ### Verify Verify Updated Student Details
 
-   > In the test case you need to validate the following field values:
+    In the test case you need to validate the following field values:
 
-   1. > First Name
-   2. > Middle Name
-   3. > Last Name
-   4. > Date of Birth
+   1.  First Name
+   2.  Middle Name
+   3.  Last Name
+   4.  Date of Birth
 
 5. ### Create Technical skills Create Student Address
 
-   > In the test case you need to validate the following field values:
+    In the test case you need to validate the following field values:
 
-   1. > Only Message
+   1.  Only Message
 
 6. ### Create a Student Address
 
-   > In the test case you need to validate the following field values:
+    In the test case you need to validate the following field values:
 
-   1. > Only Message
+   1.  Only Message
 
 7. ### Get the Student's Full Details
 
-   > In the test case you need to validate the following field values:
+    In the test case you need to validate the following field values:
 
    1.  First Name
    2.  Middle Name
